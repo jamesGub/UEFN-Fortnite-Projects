@@ -1,0 +1,45 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "JG_FINAL_GDD371",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"attributions": [],
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "24.10",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "JG_FINAL_GDD371",
+			"bIsRoot": true,
+			"bIsPublic": false,
+			"bEnabled": true
+		}
+	],
+	"dependencies": [],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 4,
+			"maxTeamCount": 4,
+			"maxTeamSize": 4,
+			"maxSocialPartySize": 4,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": true,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "596eab51-4292-ca99-73ef-af825765323a",
+		"modules":
+		{
+			"JG_FINAL_GDD371": "729b7ee6-4e65-4a2c-0482-7f8ac384e7b1"
+		}
+	}
+}
